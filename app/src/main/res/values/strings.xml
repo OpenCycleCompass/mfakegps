@@ -4,5 +4,8 @@
     <string name="app_name">MFakeGps</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="button_record_track">Record GPS Track</string>
+    <string name="button_play_track">Play Recorded GPS Track (Loop)</string>
+    <string name="button_delete_track">Delete Recorded GPS Track</string>
 
 </resources>
